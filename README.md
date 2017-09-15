@@ -11,7 +11,7 @@ This project exists so I can submit and get graded for all assignments of this c
 
 ## Reference
 
-http://kbroman.org/github_tutorial/pages/init.html
+https://github.com/maptime/getting-started-with-git-and-github/blob/master/README.md
 
 ## Tests
 
